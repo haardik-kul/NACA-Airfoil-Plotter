@@ -1,4 +1,4 @@
-# NACA-Airfoil-Plotter
+# NACA-Airfoil-Plotter : 4-Digit + 5-Digit Standard
 MATLAB tool to visualize NACA 4 and 5 digit standard series airfoils.
 
 ## Features
